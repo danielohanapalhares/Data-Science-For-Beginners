@@ -1,4 +1,4 @@
-# Lines, Scatters and Bars
+# Linhas , Dispercoes e Barras 
 
 ## Instructions
 
